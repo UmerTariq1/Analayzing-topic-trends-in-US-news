@@ -1,3 +1,5 @@
+Since its a big file so i cant upload here. but its available at the below links
+
 On kaggle:
 https://www.kaggle.com/datasets/rmisra/news-category-dataset
 
