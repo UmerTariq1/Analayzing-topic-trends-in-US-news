@@ -13,6 +13,7 @@ Project structure:
   - ner output (output folder for ner pickle files)
   - lda output (output folder for lda models pickle files. Also has pyLDAvis visualization in html form)
       |
+      -- lda trained model pkl files
       -- lda_vis_output (folder containing lda html topic modeling visualizations using pyLDAvis)
   - data (folder containing source data)
      |
