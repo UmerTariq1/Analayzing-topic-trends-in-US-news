@@ -5,7 +5,7 @@ In this project I do the data analysis of US news category dataset released in 2
 
 ## Directory Structure
 .
-![project directory structure](./project directory structure.png)
+![project directory structure]([./project directory structure.png](https://github.com/UmerTariq1/Analayzing-topic-trends-in-US-news/blob/main/project%20directory%20structure.png))
 
 
 ## Versions
