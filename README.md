@@ -4,7 +4,7 @@ This project was for my masters course project for Computaitonal Linguistics tau
 In this project I do the data analysis of US news category dataset released in 2021 september. I use NER and LDA for my analysis. NER to understand what personalities have been discussed in this data while LDA to see what topic are discussed in this dataset. 
 
 ## Directory Structure
-![project directory structure](https://github.com/UmerTariq1/Analayzing-topic-trends-in-US-news/blob/main/project%20directory%20structure.png)
+![project directory structure](https://github.com/UmerTariq1/Analayzing-topic-trends-in-US-news/blob/main/directory%20structure.png)
 
 
 ## Versions
