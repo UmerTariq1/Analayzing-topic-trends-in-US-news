@@ -7,6 +7,9 @@ Project structure:
   - lda.py (custom lda implementation of LDA using gibbs sampling)
   - main.ipynb (notebook where the analysis is done)
   - images (output images folder of data analysis)
+    |
+     -- ner output (output visualization images for analysis done by NER)
+     -- lda output (output visualization images for analysis done by LDA)
   - ner output (output folder for ner pickle files)
   - lda output (output folder for lda models pickle files)
       |
