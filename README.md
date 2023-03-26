@@ -18,3 +18,6 @@ you can use requirements.txt to create a conda envrionment
 
 ## Runtime
 Its a notebook so every cell can be run separately. those cells which will take a lot of runtime have this mentioned at the top of the cell.
+
+
+     
