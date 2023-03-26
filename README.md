@@ -9,7 +9,7 @@ Project structure:
   - images (output images folder of data analysis)
     |
      -- ner output (output visualization images for analysis done by NER)
-     -- lda output (output visualization images for analysis done by LDA)
+     -- lda output images (output visualization images for analysis done by LDA)
   - ner output (output folder for ner pickle files)
   - lda output (output folder for lda models pickle files)
       |
