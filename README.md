@@ -1,3 +1,6 @@
+NOTE: Please dont copy assignments or cheat at all. That is not the purpose of this repo. You will get me and yourself both into trouble. 
+
+
 # Analayzing-topic-trends-in-US-news
 
 This project was for my masters course project for Computaitonal Linguistics taught by Prof. Koller.
