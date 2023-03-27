@@ -1,3 +1,4 @@
+# IMPORTANT NOTE :
 NOTE: Please dont copy assignments or cheat at all. That is not the purpose of this repo. You will get me and yourself both into trouble. 
 
 
@@ -24,3 +25,5 @@ Its a notebook so every cell can be run separately. those cells which will take 
 
 
      
+# IMPORTANT NOTE :
+NOTE: Please dont copy assignments or cheat at all. That is not the purpose of this repo. You will get me and yourself both into trouble. 
